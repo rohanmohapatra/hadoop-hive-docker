@@ -23,3 +23,5 @@ hive> quit;
 ```
 docker-compose down
 ```
+
+![5 Datanodes](setup.jpeg)
